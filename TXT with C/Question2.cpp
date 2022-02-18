@@ -1,4 +1,4 @@
-/*Ebru Ece Aytürk-19050111037-seeing the array and switching between the rows*/
+
 #include <stdio.h>
 int main(){
 	
