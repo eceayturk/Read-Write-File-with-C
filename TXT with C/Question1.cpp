@@ -1,4 +1,4 @@
-/*Ebru Ece Aytürk-19050111037-collect letters from the txt file and converse 1D array*/
+
 #include <stdio.h>
 
 int main(){
